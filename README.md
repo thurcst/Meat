@@ -1,2 +1,2 @@
 # Meat
-Material do curso de Angular da Udemy
+Projeto do curso de Angular da Udemy
